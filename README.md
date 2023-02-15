@@ -7,5 +7,5 @@ This is the project repository for Visual Information Processing (TDS3651). The 
 ## Confirm Image
 ![confirm](images/confirmation.png)
 
-## Results
+## Results detected with Siamese Network
 ![results](images/results.png)
